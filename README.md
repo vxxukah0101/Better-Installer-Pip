@@ -26,7 +26,7 @@ This repository contains a Python script (`src.py`) designed to analyze Python f
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/vxxukah0101/Better-Installer-Pip.git
 cd your-repo-name
 ```
 
